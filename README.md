@@ -6,3 +6,5 @@
 [Lecture 4](https://github.com/la-process-and-theory/lecture-slides/blob/master/HUDK4051-L4-NLP%201.pdf)  
 [Lecture 5](https://github.com/la-process-and-theory/lecture-slides/blob/master/HUDK4051-L5-NLP%203-LDA.pdf)  
 [Lecture 6](https://github.com/la-process-and-theory/lecture-slides/blob/master/HUDK4051-L7-Neural%20Nets.pdf)
+[Lecture 7]
+[Lecture 8](https://github.com/la-process-and-theory/lecture-slides/blob/master/HUDK4051-L8-Neural%20Nets%20II.pdf)  

@@ -10,3 +10,4 @@
 [Lecture 8](https://github.com/la-process-and-theory/lecture-slides/blob/master/HUDK4051-L8-Neural%20Nets%20II.pdf)  
 [Lecture 9](https://github.com/la-process-and-theory/lecture-slides/blob/master/HUDK4051-L9-Experimental%20Design.pdf)  
 [Lecture 10](https://github.com/la-process-and-theory/lecture-slides/blob/master/HUDK4051-L10-Viz%20I.pdf)
+[Lecture 12](https://github.com/la-process-and-theory/lecture-slides/blob/master/HUDK4051-L12-Viz%20III.pdf)

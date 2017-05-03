@@ -13,3 +13,4 @@
 [Lecture 11](https://github.com/la-process-and-theory/lecture-slides/blob/master/HUDK4051-L11-Viz%20II.pdf)  
 [Lecture 12](https://github.com/la-process-and-theory/lecture-slides/blob/master/HUDK4051-L12-Viz%20III.pdf)  
 [Lecture 13](https://github.com/la-process-and-theory/lecture-slides/blob/master/HUDK4051-L13-Wrap%20Up.pdf)  
+[Lecture 14](https://github.com/la-process-and-theory/lecture-slides/blob/master/HUDK4051-L14-Presentations.pdf)

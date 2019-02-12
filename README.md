@@ -5,7 +5,7 @@
 [Lecture 3]()  
 [Lecture 4]()  
 [Lecture 5]()  
-[Lecture 6]()  
+[Lecture 6](https://github.com/la-process-and-theory/lecture-slides/blob/master/HUDK4051-L6-prediction.pdf)  
 [Lecture 7]()  
 [Lecture 8]()  
 [Lecture 9]()  

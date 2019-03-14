@@ -1,4 +1,4 @@
-# HUDK 4051 Links to Spring 2018 Lecture Slides
+# HUDK 4051 Links to Spring 2019 Lecture Slides
 
 [Lecture 1](https://github.com/la-process-and-theory/lecture-slides/blob/master/HUDK4051-L1-Introduction.pdf)  
 [Lecture 2](https://github.com/la-process-and-theory/lecture-slides/blob/master/HUDK4051-L2-matching-recommender.pdf)  

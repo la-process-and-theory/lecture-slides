@@ -8,7 +8,7 @@
 [Lecture 6]()  
 [Lecture 7]()  
 [Lecture 8]()  
-[Lecture 9]()  
+[Lecture 9](https://github.com/la-process-and-theory/lecture-slides/blob/master/HUDK4051-L9-LDA%20-Shiny.pdf)  
 [Lecture 10]()  
 [Lecture 11]()  
 [Lecture 12]()  

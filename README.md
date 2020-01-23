@@ -1,6 +1,6 @@
 # HUDK 4051 Links to Spring 2020 Lecture Slides
 
-[Lecture 1]()  
+[Lecture 1](https://github.com/la-process-and-theory/lecture-slides/blob/master/HUDK4051-L1-Introduction.pdf)  
 [Lecture 2]()  
 [Lecture 3]()  
 [Lecture 4]()  

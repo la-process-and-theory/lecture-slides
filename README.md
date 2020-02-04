@@ -2,7 +2,7 @@
 
 [Lecture 1](https://github.com/la-process-and-theory/lecture-slides/blob/master/HUDK4051-L1-Introduction.pdf)  
 [Lecture 2]()  
-[Lecture 3]()  
+[Lecture 3](https://github.com/la-process-and-theory/lecture-slides/blob/master/HUDK4051-L3-matching-recommender.pdf)  
 [Lecture 4]()  
 [Lecture 5]()  
 [Lecture 6]()  

@@ -6,7 +6,7 @@
 [Lecture 4]()  
 [Lecture 5](https://github.com/la-process-and-theory/lecture-slides/blob/master/HUDK4051-L5-SNA.pdf)  
 [Lecture 6](https://github.com/la-process-and-theory/lecture-slides/blob/master/HUDK4051-L6-prediction.pdf)  
-[Lecture 7]()  
+[Lecture 7](https://github.com/la-process-and-theory/lecture-slides/blob/master/HUDK4051-L7-Neural%20Nets.pdf)  
 [Lecture 8]()  
 [Lecture 9]()  
 [Lecture 10]()  

@@ -9,7 +9,6 @@
 [Lecture 8](https://github.com/la-process-and-theory/lecture-slides/blob/master/HUDK4051-L8-Neural%20Nets%20II.pdf)  
 [Lecture 9](https://github.com/la-process-and-theory/lecture-slides/blob/master/HUDK4051-L9-Shiny.pdf)  
 [Lecture 10](https://github.com/la-process-and-theory/lecture-slides/blob/master/HUDK4051-L10-Shiny%20II.pdf)  
-[Lecture 11]()  
-[Lecture 12]()  
+[Lecture 11/12](https://github.com/la-process-and-theory/lecture-slides/blob/master/HUDK4051-L11-12-NLP%2BLDA.pdf)  
 [Lecture 13]()  
 [Lecture 14]()
